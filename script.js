@@ -1,5 +1,5 @@
 // API Configuration
-const API_KEY = 'YOUR_API_KEY'; // Replace with your actual API key
+const API_KEY = '7b4956bc'; 
 const API_URL = 'https://www.omdbapi.com/';
 
 // DOM Elements
